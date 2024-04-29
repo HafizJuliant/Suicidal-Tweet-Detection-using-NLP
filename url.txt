@@ -1,0 +1,3 @@
+url hugging face = https://huggingface.co/spaces/hafizjuliant/Suicidal_Tweet_Prediction
+
+url dataset = https://www.kaggle.com/datasets/aunanya875/suicidal-tweet-detection-dataset/data
