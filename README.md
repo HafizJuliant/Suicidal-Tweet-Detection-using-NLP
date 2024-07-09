@@ -5,5 +5,5 @@ This project aims to identify linguistic patterns indicative of suicidal thought
 ## Dataset 
 https://www.kaggle.com/datasets/aunanya875/suicidal-tweet-detection-dataset/data
 
-##Deployment
+## Deployment
 https://huggingface.co/spaces/hafizjuliant/Suicidal_Tweet_Prediction
